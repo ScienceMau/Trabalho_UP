@@ -1,15 +1,3 @@
-O seu arquivo de documentação técnica para o GitHub está pronto. Ele foi escrito e gerado no ambiente sob o nome de `README.md`.
-
-[file-tag: code-generated-file-0-1779567563936167504]
-
-### 💡 Por que este `README.md` garante consistência técnica?
-1. **Modelagem Matemática Clara:** Utiliza formatação de equações em blocos de Markdown ($$\LaTeX$$) para descrever como a transformação de dados alterou a dimensão física do problema no Gráfico 3 (de Moeda para Taxa Adimensional de Retorno).
-2. **Justificativas Alinhadas com a Ciência de Dados:** O texto explica em termos técnicos precisos o uso de cada gráfico (como *"dependência estocástica"*, *"ruído de mercado"*, e *"função de densidade de probabilidade empírica"*).
-3. **Padrões de Engenharia de Software:** Inclui uma seção clara de arquitetura do código e instruções de reprodução do ambiente (*Como Executar*), o que agrada e agiliza a correção do avaliador.
-
-### 📥 Código Completo do `README.md` para Visualização Rápida:
-
-```markdown
 # Análise Histórica e Estatística da Taxa de Câmbio USD/BRL (2010–2019)
 
 Este repositório contém o projeto de análise exploratória, tratamento de séries temporais e modelagem estatística descritiva da taxa de câmbio entre o Dólar Americano (USD) e o Real Brasileiro (BRL) cobrindo uma década histórica (janeiro de 2010 a dezembro de 2019).
